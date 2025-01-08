@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Fetch JSON data using xm-sign in Ximalaya
-// @author       You
+// @author       Lynn Zhang
 // @match        https://www.ximalaya.com/*
 // @grant        none
 // ==/UserScript==
