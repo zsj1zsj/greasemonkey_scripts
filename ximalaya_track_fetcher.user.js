@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Fetch data from Ximalaya API
 // @author       You
-// @match        https://www.ximalaya.com/*
+// @match        https://www.ximalaya.com/sound/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
