@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Fetch JSON data using xm-sign in Ximalaya
 // @author       Lynn Zhang
-// @match        https://www.ximalaya.com/*
+// @match        https://www.ximalaya.com/album/*
 // @grant        none
 // ==/UserScript==
 
