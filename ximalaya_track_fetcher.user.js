@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Fetch data from Ximalaya API
-// @author       You
+// @author       Lynn Zhang
 // @match        https://www.ximalaya.com/sound/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
