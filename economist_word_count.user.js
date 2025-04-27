@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         文章英文单词数统计
+// @name         经济学人文章英文单词数统计
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  统计 #new-article-template > div 下英文单词数量并显示在右上角
